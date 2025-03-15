@@ -10,8 +10,4 @@ Welcome to the FIFA Player Cards project! This application showcases detailed pr
 - Responsive design using React-Bootstrap
 - Navigation between Home, Players, and Contact sections
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Onesmus123/React-Project-2.git
